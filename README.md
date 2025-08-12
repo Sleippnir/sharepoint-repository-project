@@ -1,4 +1,4 @@
-# Case Study: Enterprise Document Repository Strategy & Implementation
+# Enterprise Document Repository Strategy & Implementation
 
 ## Objective
 
