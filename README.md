@@ -58,6 +58,7 @@ The planning phase produced a comprehensive set of artifacts that formed the blu
     * [Data gathering Phases 1-2 Questions.pdf](./Data%20gathering%20Phases%201-2%20Questions.pdf)
     * [Data gathering Phases 1-2 QRG.pdf](./Data%20gathering%20Phases%201-2%20QRG.pdf)
     * [Possible file Naming Structure.pdf](./Possible%20file%20Naming%20Structure.pdf)
+    * [Slide Presentation_ Potential Questions, Answers, References.pdf](./Slide%20Presentation_%20Potential%20Questions,%20Answers,%20References.pdf)
 * **Automation & Enhancement Vision:**
     * [Benefits: Power Automate Examples.pdf](./Benefits:%20Power%20Automate%20Examples.pdf)
 
